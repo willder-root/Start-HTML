@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Square+Peg&display=swap');
+
+#Container-Principal{
+    width: 800px;
+    margin: auto;
+    font-family: sans-serif;
+}
+
+header {
+    border: 2px solid #30f;
+    border-radius: 20px ;
+    text-align: center;
+    padding: 25px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+
+h1{
+    color: Green;
+    font-family: 'Square Peg', cursive;
+    font-size: 45px;
+    text-align: center;
+}
+
+header p {
+    font-weight: bolder;
+    text-shadow: 1px 5px 3px #aaa;
+}
+strong{
+    color: Gray;
+}
