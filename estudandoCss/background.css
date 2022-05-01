@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+}
+/* header{
+    height: 200px;
+    border: 7px dotted green;
+    background-color: aqua;
+    background-image: url(../image/tigre.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-origin: padding-box;
+    background-clip: content-box;
+} */
+
+main{
+    color: #fff;
+    background-color: aqua;
+    background-image: url(../image/tigre.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-origin: padding-box;
+    background-clip: content-box;  
+    background-attachment: fixed; 
+    background: linear-gradient(45deg, red, yellow);
+}
